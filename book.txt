@@ -1,0 +1,9 @@
+ID	Title	Authors	year	copies
+1	Harry Potter and the.Philosopher's stone	J.K.Rowling	1997	5
+2	The Forgotten Room	Karen White,Beatriz Williams,Lauren Willig	2016	2
+3	Harry Potter and the Chamber of secrets	J.K.Rowling	1998	12
+4	Holidays on Ice	David Sedaris	1997	9
+5	java pragramming	asdf	1995	8
+6	C Pragramming	herbert schedlt	1998	2
+7	python	abc	1996	2
+8	Algorithms	asdff	1990	2

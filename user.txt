@@ -1,0 +1,6 @@
+Reader	password
+Matteo	parma
+Farha	1234
+Asdfgh	12345
+Laura	12345
+John	12345
